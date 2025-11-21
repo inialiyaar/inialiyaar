@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](banner.svg)
+![Banner](https://raw.githubusercontent.com/inialiyaar/inialiyaar/banner.svg)
 
 # 👋 Hey, I'm **Aliyaar**  
 ### 🚀 Young Developer | Python • Web Dev • Telegram Bots | C++ Learner  
