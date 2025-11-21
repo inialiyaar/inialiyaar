@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/rLCfbpy.jpeg" width="100%" alt="Developer Banner">
+![Banner](banner.svg)
 
 # 👋 Hey, I'm **Aliyaar**  
 ### 🚀 Young Developer | Python • Web Dev • Telegram Bots | C++ Learner  
